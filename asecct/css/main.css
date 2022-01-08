@@ -472,7 +472,7 @@ html{
     border-radius: 50%;
 }
 .input-traffic::-webkit-slider-thumb{
-    background:url('./asecct/icon/trafic.png');
+    background:url('https://www.kindpng.com/picc/m/393-3934206_car-vehicle-wagon-traffic-automobile-svg-png-icon.png');
 }
 .input-rain::-webkit-slider-thumb{
     background:url('/asecct/icon/umberal.png');
