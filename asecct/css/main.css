@@ -472,7 +472,7 @@ html{
     border-radius: 50%;
 }
 .input-traffic::-webkit-slider-thumb{
-    background:url('/asecct/icon/trafic.png');
+    background:url('./asecct/icon/trafic.png');
 }
 .input-rain::-webkit-slider-thumb{
     background:url('/asecct/icon/umberal.png');
