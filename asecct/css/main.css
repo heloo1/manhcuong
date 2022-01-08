@@ -472,14 +472,14 @@ html{
     border-radius: 50%;
 }
 .input-traffic::-webkit-slider-thumb{
-    background:url(/asecct/icon/trafic.png);
+    background:url(./trafic.png);
 }
 .input-rain::-webkit-slider-thumb{
-    background:url(/asecct/icon/umberal.png);
+    background:url(./umberal.png);
     
 }
 .input-fire::-webkit-slider-thumb{
-    background:url(/asecct/icon/fireplace.png) white;
+    background:url(./fireplace.png) white;
     
 }
 .input-font{
